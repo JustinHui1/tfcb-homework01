@@ -8,5 +8,5 @@
 ## Pictures of Ants
 | Row Number | Column of Ants  | Also a Column of Ants          |
 | ------- | ------ | ------------------- |
-| 1       | [!(\messy-project-directory\images\casent0172345_rhytidoponera_metallica)] |     |
+| 1       | [!(images\casent0172345_rhytidoponera_metallica.jpg)] |     |
 | 2       |   |            |
